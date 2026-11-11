@@ -25,7 +25,7 @@ I'm developing my technical skills through self-study, practical projects, and h
 - Build a professional portfolio.
 
 ### Connect With Me
-- GitHub: https://github.com/BigH93Dev
+- GitHub: https://github.com/mcmorel-debug/BigH93Dev
 
 ---
 *Learning. Building. Improving.*
