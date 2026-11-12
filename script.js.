@@ -1,0 +1,10 @@
+// BIG H⁹³ Portfolio
+
+const button = document.querySelector(".button");
+
+button.addEventListener("click", function () {
+  console.log("Welcome to the BIG H⁹³ portfolio!");
+});
+
+// Display a welcome message in the browser console
+console.log("BIG H⁹³ Portfolio successfully loaded.");
